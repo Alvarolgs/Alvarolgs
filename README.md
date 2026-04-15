@@ -10,9 +10,16 @@ Me chamo Alvaro Luis Garcia de Souza, tenho 24 anos e sou de São Paulo. Conclu�
 
 - **MPM Soluções Integradas – Desenvolvedor FullStack Junior (2022 - 2025)**
   <br>
-  Atuei no desenvolvimento e na evolução do principal sistema da empresa, uma solução integrada de CRM/ERP, contribuindo tanto para a manutenção quanto para a implementação de novas funcionalidades. Utilizei tecnologias como **C#**, **SQL Server**, **.NET Framework**, **ASP.NET**, **HTML**, **CSS** e **JavaScript**.
+  Apoio na idealização e no desenvolvimento geral do sistema de ERP/CRM da empresa, manutenção do Banco de Dados, atuação ativa na criação de códigos e responsavel por tratar bugs.
+. Tecnologias utilizadas: **C#**, **.NET Framework**, **ASP.NET**, **SQL Server**, **HTML**, **CSS**, **Javascript**, **Microsoft Azure**, **SOLID**, **Documentação Técnica**.
 
-  Essa experiência me proporcionou aprendizado prático sobre o ciclo completo de desenvolvimento de software: desde a programação e testes até aspectos de arquitetura, tomada de decisões, levantamento de necessidades e colaboração em equipe.
+
+- **Partnersys – Desenvolvedor FullStack (2026 - Atualmente)**
+  <br>
+  Atuação no planejamento e desenvolvimento de sistema ERP, com participação nas camadas de frontend e backend, além de responsabilidades relacionadas à banco de dados, infraestrutura,
+  arquitetura da aplicação e implementação de regras de negócio.
+. Tecnologias utilizadas: **C#**, **.NET Core 10**, **React**, **Typescript**, **SQL Server**, **Redis**, **EntityFramework**, **RabbitMQ(Producer/Consumer)**, **Autenticação JWT**, **Docker**,
+  **Observabilidade (Signoz)**, **APIs Rest**, **Integração entre sistemas**.
 
 ---
 
